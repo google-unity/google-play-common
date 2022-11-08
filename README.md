@@ -4,13 +4,13 @@
 
 
 
-for version `1.6.0`
+for version `1.7.0`
 ```csharp
-"com.google.play.common": "https://github.com/google-unity/google-play-common.git#1.6.0",
+"com.google.play.common": "https://github.com/google-unity/google-play-common.git#1.7.0",
 ```
 
 
-dependency `com.google.android.appbundle 1.6.0`
+dependency `com.google.android.appbundle 1.7.0`
 ```cs
-"com.google.android.appbundle": "https://github.com/google-unity/android-app-bundle.git#1.6.0",
+"com.google.android.appbundle": "https://github.com/google-unity/android-app-bundle.git#1.7.0",
 ```
