@@ -1,5 +1,8 @@
 # Changelog for com.google.play.common
 
+## [1.9.1] - 2024-07-05
+- Bumped minimum supported Unity version to 2018.4
+
 ## [1.9.0] - 2024-02-26
 - Incremented version number to match other packages
 
