@@ -5,6 +5,6 @@
 ## Overview
 
 The Google Play Common package provides common files required by some Google
-Play packages, such as Play Instant.
+Play packages, such as Play Integrity API.
 
 This package doesn't provide any features when installed separately.

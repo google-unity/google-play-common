@@ -4,9 +4,9 @@
 
 
 
-for version `1.9.1`
+for version `1.9.2`
 ```csharp
-"com.google.play.common": "https://github.com/google-unity/google-play-common.git#1.9.1",
+"com.google.play.common": "https://github.com/google-unity/google-play-common.git#1.9.2",
 ```
 
 
